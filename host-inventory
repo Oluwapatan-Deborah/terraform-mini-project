@@ -1,0 +1,5 @@
+[all]
+44.211.71.190 ansible_ssh_private_key_file=/home/vagrant/project.pem
+54.210.189.169 ansible_ssh_private_key_file=/home/vagrant/project.pem
+54.90.165.215 ansible_ssh_private_key_file=/home/vagrant/project.pem
+ 
